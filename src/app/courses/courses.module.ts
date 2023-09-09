@@ -100,6 +100,7 @@ const entityMetadata: EntityMetadataMap = {
         CoursesResolver,
         CoursesDataService
     ]
+
 })
 export class CoursesModule {
 
