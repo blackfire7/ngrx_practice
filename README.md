@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Ngrx (with NgRx Data) - The Complete Guide
 
@@ -80,3 +81,6 @@ We can checkout the remote branch and start tracking it with a local branch that
 
 It's also possible to download a ZIP file for a given branch,  using the branch dropdown on this page on the top left, and then selecting the Clone or Download / Download as ZIP button.
 
+=======
+# ngrx_practice
+>>>>>>> c307d2dc20aab2d6f4e0e1cba0bc764247809fec
